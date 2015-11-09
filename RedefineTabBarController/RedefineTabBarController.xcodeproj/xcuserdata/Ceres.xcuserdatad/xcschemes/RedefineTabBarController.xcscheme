@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E5C45A6E1BF044D30072419F"
+               BlueprintIdentifier = "E5761CEC1BEE114700DD9C94"
                BuildableName = "RedefineTabBarController.app"
                BlueprintName = "RedefineTabBarController"
                ReferencedContainer = "container:RedefineTabBarController.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E5C45A871BF044D30072419F"
+               BlueprintIdentifier = "E5761D051BEE114700DD9C94"
                BuildableName = "RedefineTabBarControllerTests.xctest"
                BlueprintName = "RedefineTabBarControllerTests"
                ReferencedContainer = "container:RedefineTabBarController.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E5C45A921BF044D30072419F"
+               BlueprintIdentifier = "E5761D101BEE114700DD9C94"
                BuildableName = "RedefineTabBarControllerUITests.xctest"
                BlueprintName = "RedefineTabBarControllerUITests"
                ReferencedContainer = "container:RedefineTabBarController.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E5C45A6E1BF044D30072419F"
+            BlueprintIdentifier = "E5761CEC1BEE114700DD9C94"
             BuildableName = "RedefineTabBarController.app"
             BlueprintName = "RedefineTabBarController"
             ReferencedContainer = "container:RedefineTabBarController.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E5C45A6E1BF044D30072419F"
+            BlueprintIdentifier = "E5761CEC1BEE114700DD9C94"
             BuildableName = "RedefineTabBarController.app"
             BlueprintName = "RedefineTabBarController"
             ReferencedContainer = "container:RedefineTabBarController.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E5C45A6E1BF044D30072419F"
+            BlueprintIdentifier = "E5761CEC1BEE114700DD9C94"
             BuildableName = "RedefineTabBarController.app"
             BlueprintName = "RedefineTabBarController"
             ReferencedContainer = "container:RedefineTabBarController.xcodeproj">

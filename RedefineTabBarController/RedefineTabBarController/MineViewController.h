@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MineViewController.h
 //  RedefineTabBarController
 //
 //  Created by Ceres on 15/11/7.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface MineViewController : UIViewController
 
 @end
-
